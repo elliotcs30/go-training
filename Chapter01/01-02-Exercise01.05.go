@@ -1,3 +1,5 @@
+// 短變數宣告:
+
 package main
 
 import (

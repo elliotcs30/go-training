@@ -1,3 +1,5 @@
+// 推斷型別發生問題:
+
 package main
 
 import "math/rand"
